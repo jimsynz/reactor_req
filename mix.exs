@@ -37,7 +37,7 @@ defmodule Reactor.Req.MixProject do
     [
       name: :reactor_req,
       files: ~w[lib .formatter.exs mix.exs README* LICENSE* CHANGELOG* documentation],
-      licenses: ["HL3-FULL"],
+      licenses: [],
       links: %{
         "Source" => "https://harton.dev/james/reactor_req",
         "GitHub" => "https://github.com/jimsynz/reactor_req",
