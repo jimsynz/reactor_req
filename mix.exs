@@ -57,7 +57,7 @@ defmodule Reactor.Req.MixProject do
       {:bandit, "~> 1.5", only: ~w[dev test]a, runtime: false},
       {:credo, "~> 1.0", only: ~w[dev test]a, runtime: false},
       {:dialyxir, "~> 1.0", only: ~w[dev test]a, runtime: false},
-      {:doctor, "~> 0.21", only: ~w[dev test]a, runtime: false},
+      {:doctor, "~> 0.22", only: ~w[dev test]a, runtime: false},
       {:ex_check, "~> 0.16", only: ~w[dev test]a, runtime: false},
       {:ex_doc, "~> 0.34", only: ~w[dev test]a, runtime: false},
       {:git_ops, "~> 2.6", only: ~w[dev test]a, runtime: false},
