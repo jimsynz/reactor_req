@@ -59,7 +59,7 @@ defmodule Reactor.Req.MixProject do
       {:dialyxir, "~> 1.0", only: ~w[dev test]a, runtime: false},
       {:doctor, "~> 0.22", only: ~w[dev test]a, runtime: false},
       {:ex_check, "~> 0.16", only: ~w[dev test]a, runtime: false},
-      {:ex_doc, "~> 0.34", only: ~w[dev test]a, runtime: false},
+      {:ex_doc, "~> 0.35", only: ~w[dev test]a, runtime: false},
       {:git_ops, "~> 2.6", only: ~w[dev test]a, runtime: false},
       {:plug, "~> 1.16", only: ~w[dev test]a, runtime: false},
       {:igniter, "~> 0.4"},
