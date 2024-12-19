@@ -62,7 +62,7 @@ defmodule Reactor.Req.MixProject do
       {:ex_doc, "~> 0.35", only: ~w[dev test]a, runtime: false},
       {:git_ops, "~> 2.6", only: ~w[dev test]a, runtime: false},
       {:plug, "~> 1.16", only: ~w[dev test]a, runtime: false},
-      {:igniter, "~> 0.4"},
+      {:igniter, "~> 0.5"},
       {:reactor, "~> 0.10"},
       {:req, "~> 0.5"},
       {:spark, "~> 2.0"}
