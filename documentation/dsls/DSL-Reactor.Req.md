@@ -100,7 +100,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_delete-wait_for-names){: #reactor-req_delete-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_delete-wait_for-description){: #reactor-req_delete-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -211,7 +215,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_get-wait_for-names){: #reactor-req_get-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_get-wait_for-description){: #reactor-req_get-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -322,7 +330,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_head-wait_for-names){: #reactor-req_head-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_head-wait_for-description){: #reactor-req_head-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -433,7 +445,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_merge-wait_for-names){: #reactor-req_merge-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_merge-wait_for-description){: #reactor-req_merge-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -544,7 +560,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_new-wait_for-names){: #reactor-req_new-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_new-wait_for-description){: #reactor-req_new-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -655,7 +675,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_patch-wait_for-names){: #reactor-req_patch-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_patch-wait_for-description){: #reactor-req_patch-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -766,7 +790,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_post-wait_for-names){: #reactor-req_post-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_post-wait_for-description){: #reactor-req_post-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -877,7 +905,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_put-wait_for-names){: #reactor-req_put-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_put-wait_for-description){: #reactor-req_put-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -988,7 +1020,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_request-wait_for-names){: #reactor-req_request-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_request-wait_for-description){: #reactor-req_request-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
@@ -1099,7 +1135,11 @@ wait_for :create_user
 | Name | Type | Default | Docs |
 |------|------|---------|------|
 | [`names`](#reactor-req_run-wait_for-names){: #reactor-req_run-wait_for-names .spark-required} | `atom \| list(atom)` |  | The name of the step to wait for. |
+### Options
 
+| Name | Type | Default | Docs |
+|------|------|---------|------|
+| [`description`](#reactor-req_run-wait_for-description){: #reactor-req_run-wait_for-description } | `String.t` |  | An optional description. |
 
 
 
