@@ -5,6 +5,15 @@ See [Conventional Commits](Https://conventionalcommits.org) for commit guideline
 
 <!-- changelog -->
 
+## [v0.1.2](https://harton.dev/james/reactor_req/compare/v0.1.1...v0.1.2) (2024-12-21)
+
+
+
+
+### Improvements:
+
+* make igniter optional
+
 ## [v0.1.1](https://harton.dev/james/reactor_req/compare/v0.1.0...v0.1.1) (2024-08-14)
 
 

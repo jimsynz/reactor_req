@@ -3,7 +3,7 @@ defmodule Reactor.Req.MixProject do
   A Reactor extension which provides steps for working with `Req`.
   """
 
-  @version "0.1.1"
+  @version "0.1.2"
 
   use Mix.Project
 
