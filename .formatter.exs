@@ -11,11 +11,14 @@ spark_locals_without_parens = [
   connect_options: 1,
   decode_body: 1,
   decode_json: 1,
+  description: 1,
   finch: 1,
   finch_private: 1,
   finch_request: 1,
   form: 1,
   form_multipart: 1,
+  guard: 1,
+  guard: 2,
   headers: 1,
   http_errors: 1,
   inet6: 1,
@@ -60,7 +63,9 @@ spark_locals_without_parens = [
   unix_socket: 1,
   url: 1,
   wait_for: 1,
-  wait_for: 2
+  wait_for: 2,
+  where: 1,
+  where: 2
 ]
 
 [
