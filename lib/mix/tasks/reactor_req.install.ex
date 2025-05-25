@@ -10,7 +10,7 @@ if Code.ensure_loaded?(Igniter) do
 
     @doc false
     @impl Task
-    def igniter(igniter, _argv) do
+    def igniter(igniter) do
       igniter
       |> Formatter.import_dep(:reactor_req)
     end
